@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-15T22:35:36 IST" name="Default suite" finished-at="2022-07-15T22:35:36 IST" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2022-07-15T22:35:36 IST" name="Default test" finished-at="2022-07-15T22:35:36 IST" duration-ms="34">
+      <class name="annotaions.Registration_Page">
+        <test-method is-config="true" signature="preReq()[pri:0, instance:annotaions.Registration_Page@7f552bd3]" started-at="2022-07-15T22:35:36 IST" name="preReq" finished-at="2022-07-15T22:35:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preReq -->
+        <test-method signature="confirmEmail()[pri:0, instance:annotaions.Registration_Page@7f552bd3]" started-at="2022-07-15T22:35:36 IST" name="confirmEmail" finished-at="2022-07-15T22:35:36 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmEmail -->
+        <test-method signature="fName()[pri:0, instance:annotaions.Registration_Page@7f552bd3]" started-at="2022-07-15T22:35:36 IST" name="fName" finished-at="2022-07-15T22:35:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fName -->
+        <test-method signature="emailId()[pri:0, instance:annotaions.Registration_Page@7f552bd3]" started-at="2022-07-15T22:35:36 IST" name="emailId" finished-at="2022-07-15T22:35:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailId -->
+        <test-method signature="lName()[pri:0, instance:annotaions.Registration_Page@7f552bd3]" started-at="2022-07-15T22:35:36 IST" name="lName" finished-at="2022-07-15T22:35:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:annotaions.Registration_Page@7f552bd3]" started-at="2022-07-15T22:35:36 IST" name="tearDown" finished-at="2022-07-15T22:35:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- annotaions.Registration_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
